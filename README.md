@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**CristovoXDGM/cristovoxdgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Estou trabalhando atualmente com:
   No momento, tenho trabalhado bastante com o desenvolvimento de aplicativos utilizando flutter e react native como meus principais frameworks para desenvolvimento dos apps, além disso, utilizo bastante a unity para o desenvolvimento de jogos e simuladores.
 - 🌱 No momento estou aprendendo sobre:
