@@ -8,4 +8,3 @@
 - 📫 E-mail: cristovao.teles.farias@gmail.com
  - instagram: @kiustudios
  
-![Alt Text](https://i.pinimg.com/236x/b4/14/76/b414768e7af1948afcbafb9bd4b0fd12.jpg)
