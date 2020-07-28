@@ -8,3 +8,4 @@
 - 📫 E-mail: cristovao.teles.farias@gmail.com
  - instagram: @kiustudios
  
+<img align="center" height="50%" src="https://images.pexels.com/photos/163046/welcome-to-our-home-welcome-tablet-an-array-of-163046.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
