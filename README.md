@@ -6,6 +6,9 @@
 - 🤔 Aprender mais sobre a monetização em apss, ainda é um conhecimento raso para mim, preciso de alguém para me auxiliar com essa parte
 - 💬 Fiquem a vontade, podem fazer perguntas;
 - 📫 E-mail: cristovao.teles.farias@gmail.com
- - instagram: @kiustudios
+ - instagram:<a href="https://www.instagram.com/kiustudios/"> @kiustudios </a>
  
-<img align="center" height="50%" src="https://images.pexels.com/photos/163046/welcome-to-our-home-welcome-tablet-an-array-of-163046.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
+<img align="right" height="25%" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+
+<img align="center" height="50%" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/245/square_280/flutterlogo.png" />
+ 
