@@ -1,7 +1,7 @@
 ## Olá tudo bem? 👋
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristovoXDGM&layout=compact&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristovoXDGM&show_icons=true&theme=cobalt&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristovoXDGM&layout=compact&show_icons=true&theme=cobalt)](https://github.com/CristovoXDGM/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristovoXDGM&show_icons=true&theme=cobalt&repo=github-readme-stats)](https://github.com/CristovoXDGM/github-readme-stats)
 
 
 - 🔭 No momento, tenho trabalhado bastante com o desenvolvimento de aplicativos utilizando flutter e react native como meus principais frameworks para desenvolvimento dos apps, além disso, utilizo bastante a unity para o desenvolvimento de jogos e simuladores.
