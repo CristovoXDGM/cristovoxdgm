@@ -8,7 +8,7 @@
 - 📫 E-mail: cristovao.teles.farias@gmail.com
  - instagram:<a href="https://www.instagram.com/kiustudios/"> @kiustudios </a>
  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristovoXDGM&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristovoXDGM&show_icons=true&theme=cobalt&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
  
  
 
