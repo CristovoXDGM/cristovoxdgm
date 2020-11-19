@@ -4,11 +4,11 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristovoXDGM&show_icons=true&theme=dracula&repo=github-readme-stats)](https://github.com/CristovoXDGM/github-readme-stats)
 
 
-- 🔭 No momento, tenho trabalhado bastante com o desenvolvimento de aplicativos utilizando flutter e react native como meus principais frameworks para desenvolvimento dos apps, além disso, utilizo bastante a unity para o desenvolvimento de jogos e simuladores.
-- 🌱 Tenho estudado bastante a parte de TDD, para poder aprender a otimizar melhor os testes, também estou estudando bastante a parte web, principalmente o front-end com react.js
+- 🔭 No momento, tenho trabalhado bastante com o desenvolvimento de aplicativos utilizando flutter e react native como meus principais frameworks para desenvolvimento de apps, além disso, utlizo React.Js para Front-end no desenvolvimento web, e manipulo a unity para o desenvolvimento de jogos e simuladores.
+- 🌱  Venho estudando e me atualizando sempre com as tecnologias, indepente da tecnologia;
 - 👯  Aceio participar de projetos open source de ferramentas que venha ajudar a comunidade de desenvolvedores, também estou aberto a propostas de parcerias em projetos e aberto a propostas de emprego.
-- 🤔 Em busca de aprender mais sobre a monetização em apss, ainda é um conhecimento raso para mim, preciso de alguém para me auxiliar com essa parte
-- 💬 Fiquem a vontade, podem fazer perguntas;
+- 🤔 Em busca de aprender mais sobre Machine learning e compreender melhor o seu uso para nós programadores
+- 💬 vocês podem entrar em contato comigo através desse e-mail abaixo:
 - 📫 E-mail: cristovao.teles.farias@gmail.com
  - instagram:<a href="https://www.instagram.com/kiustudios/"> @kiustudios </a>
  
