@@ -1,5 +1,5 @@
 ## Hi, how are you doing? 👋😃
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CristovoXDGM&line_height=28&show_icons=true&hide_rank=true&hide=java,c%23&theme=merko&repo=github-readme-stats)](https://github.com/CristovoXDGM/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristovoXDGM&show_icons=true&langs_count=4&card_width=400&theme=merko&hide_title=true&hide=c%23,java,css)](https://github.com/CristovoXDGM/github-readme-stats)
+
  
 - 📫 E-mail: <a href="mailto:cristovao.teles.farias@gmail.com"> cristovao.teles.farias@gmail.com </a>
 - Portfolio <a href="https://cristovaoresume.netlify.app/">My Resume</a>
